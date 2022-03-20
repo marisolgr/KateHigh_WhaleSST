@@ -11,3 +11,4 @@ dependencies:
   - xarray=0.15.1
   - netcdf4=1.5.3
   - dask=2.19.0 
+  - xlrd
